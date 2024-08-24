@@ -1,5 +1,3 @@
-we wiil have Learing about and basic CMDS
-
-1. git int we have initizaed the git repository
-
-2. git status , we  git have checked the status of the repositor
+hy my name is payal
+hy am payal
+hy i am okk
